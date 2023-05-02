@@ -4,4 +4,4 @@ Also every question's link is attached below that helps you to directly redirect
 # <QUESTIONS>
 1. https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true
   
- 2.https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
+2.https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
