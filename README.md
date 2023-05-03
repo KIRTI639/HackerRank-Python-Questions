@@ -23,3 +23,6 @@ https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true
 
 7.Print Function
 https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true
+# Basic Data Types
+8.List Comprehension
+https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true
