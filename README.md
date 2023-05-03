@@ -28,3 +28,7 @@ https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true
 https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true
 
 9.Find the Runner-Up Score! https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true
+
+10.Nested Lists https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true
+
+11.Finding the percentage https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true
