@@ -32,3 +32,5 @@ https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=t
 10.Nested Lists https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true
 
 11.Finding the percentage https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true
+
+12.Lists https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true
