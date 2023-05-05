@@ -34,3 +34,5 @@ https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=t
 11.Finding the percentage https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true
 
 12.Lists https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true
+
+13.Tuples https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true
