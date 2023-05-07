@@ -36,3 +36,5 @@ https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=t
 12.Lists https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true
 
 13.Tuples https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true
+
+14.swap case https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true
