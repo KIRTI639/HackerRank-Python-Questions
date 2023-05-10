@@ -46,3 +46,5 @@ https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=t
 17.Mutations https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true
 
 18.Find a String https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true
+
+19.String Validators https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true
