@@ -24,12 +24,12 @@ https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true
 7.Print Function
 https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true
 # Basic Data Types
-8.List Comprehension
+8. List Comprehension
 https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true
 
-9.Find the Runner-Up Score! https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true
+9. Find the Runner-Up Score! https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true
 
-10.Nested Lists https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true
+10. Nested Lists https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true
 
 11. Finding the percentage https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true
 
