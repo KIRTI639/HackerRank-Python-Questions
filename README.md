@@ -12,16 +12,16 @@ https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
 3.Arithmetic Operators
 https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true
 
-4.Python: Division
+4. Python: Division
 https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true
 
-5.Loops
+5. Loops
 https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true
 
-6.Write a function
+6. Write a function
 https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true
 
-7.Print Function
+7. Print Function
 https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true
 # Basic Data Types
 8. List Comprehension
